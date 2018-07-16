@@ -1,0 +1,14 @@
+c:\users\moshk\source\repos\ReqresTestProject\ReqresTestProject\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\moshk\source\repos\ReqresTestProject\ReqresTestProject\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\moshk\source\repos\ReqresTestProject\ReqresTestProject\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\moshk\source\repos\ReqresTestProject\ReqresTestProject\bin\Debug\netcoreapp2.0\ReqresTestProject.deps.json
+c:\users\moshk\source\repos\ReqresTestProject\ReqresTestProject\bin\Debug\netcoreapp2.0\ReqresTestProject.runtimeconfig.json
+c:\users\moshk\source\repos\ReqresTestProject\ReqresTestProject\bin\Debug\netcoreapp2.0\ReqresTestProject.runtimeconfig.dev.json
+c:\users\moshk\source\repos\ReqresTestProject\ReqresTestProject\bin\Debug\netcoreapp2.0\ReqresTestProject.dll
+c:\users\moshk\source\repos\ReqresTestProject\ReqresTestProject\obj\Debug\netcoreapp2.0\ReqresTestProject.csprojAssemblyReference.cache
+c:\users\moshk\source\repos\ReqresTestProject\ReqresTestProject\obj\Debug\netcoreapp2.0\ReqresTestProject.csproj.CoreCompileInputs.cache
+c:\users\moshk\source\repos\ReqresTestProject\ReqresTestProject\obj\Debug\netcoreapp2.0\ReqresTestProject.AssemblyInfoInputs.cache
+c:\users\moshk\source\repos\ReqresTestProject\ReqresTestProject\obj\Debug\netcoreapp2.0\ReqresTestProject.AssemblyInfo.cs
+c:\users\moshk\source\repos\ReqresTestProject\ReqresTestProject\bin\Debug\netcoreapp2.0\ReqresTestProject.pdb
+c:\users\moshk\source\repos\ReqresTestProject\ReqresTestProject\obj\Debug\netcoreapp2.0\ReqresTestProject.dll
+c:\users\moshk\source\repos\ReqresTestProject\ReqresTestProject\obj\Debug\netcoreapp2.0\ReqresTestProject.pdb
